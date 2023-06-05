@@ -1,11 +1,11 @@
 const Footer = () => {
 	return (
-		<div className="grid grid-cols-1 md:grid-cols-4 gap-y-10 px-32 py-14 bg-gray-100">
+		<div className="grid grid-cols-1 md:grid-cols-4 g-y-10 px-32 py-14 bg-gray-100">
 			<div className="space-y-4 text-sm text-gray-800">
 				<h5 className="font-bold">ABOUT</h5>
 				<p>How Airbnb works</p>
 				<p>Newsroom</p>
-				<p>Investors</p>
+				<p>Airbnb for business</p>
 				<p>Airbnb Plus</p>
 				<p>Airbnb Luxe</p>
 			</div>
@@ -15,7 +15,7 @@ const Footer = () => {
 				<p>Openings</p>
 				<p>Apply Now</p>
 				<p>What we do at Airbnb</p>
-				<p>peepop</p>
+				<p>Our values</p>
 				<p>capybara</p>
 			</div>
 
@@ -24,7 +24,7 @@ const Footer = () => {
 				<p>Openings</p>
 				<p>Apply Now</p>
 				<p>What we do at Airbnb</p>
-				<p>peepop</p>
+				<p>Our values</p>
 				<p>capybara</p>
 			</div>
 
@@ -33,11 +33,9 @@ const Footer = () => {
 				<p>Openings</p>
 				<p>Apply Now</p>
 				<p>What we do at Airbnb</p>
-				<p>peepop</p>
+				<p>Our values</p>
 				<p>capybara</p>
 			</div>
-
-			<div></div>
 		</div>
 	);
 };
